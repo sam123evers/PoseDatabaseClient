@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "PoseDatabaseClient"
+  "defaultProject": "PoseDatabaseClient",
+  "cli": {
+    "analytics": "9c154e7a-ba97-4c7e-b0db-aa6a20f82e27"
+  }
 }
